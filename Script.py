@@ -9,11 +9,7 @@ HERE IS THE HELP FOR COMMANDS."""
     ✯ 𝔹𝕌𝕀𝕃𝔻 𝕊𝕋𝔸𝕋𝕌𝕊: 𝕍𝟙.𝟘.𝟙 [𝔹𝔼𝕋𝔸]
     ✯ 𝕊𝕌ℙℙ𝕆ℝ𝕋: <a href=https://t.me/SECLK>𝕊𝔼ℂ𝕃𝕂</a>
     ✯ ℂℝ𝔼𝔸𝕋𝕆ℝ: <a href=https://t.me/About_Sandaruwan>𝕊𝕒𝕟𝕕𝕒𝕣𝕦𝕨𝕒𝕟</a>"""  
-      SOURCE_TXT = """<b>NOTE:</b>
-- All Credit to Eva Maria 
-- Source - 🔐 
-<b>DEVS:</b>
-- <a href=https://t.me/SECLK>𝕊𝔼ℂ𝕃𝕂</a>"""
+      
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
