@@ -4,12 +4,13 @@ class script(object):
     HELP_TXT = """ HEh {}
 HERE IS THE HELP FOR COMMANDS."""
     ABOUT_TXT = """
-    ✯ 𝘔𝘠 𝘕𝘈𝘔𝘌: {}
-✯ 𝘓𝘐𝘉𝘙𝘈𝘙𝘠: 𝘗𝘠𝘙𝘖𝘎𝘙𝘈𝘔
-✯ 𝘓𝘈𝘕𝘎𝘜𝘈𝘎𝘌: 𝘗𝘠𝘛𝘏𝘖𝘕 3
-✯ 𝘉𝘜𝘐𝘓𝘋 𝘚𝘛𝘈𝘛𝘜𝘚: 𝘷1.0.1 [𝘉𝘌𝘛𝘈]
-✯ 𝘚𝘜𝘗𝘗𝘖𝘙𝘛: <𝘢 𝘩𝘳𝘦𝘧=𝘩𝘵𝘵𝘱𝘴://𝘵.𝘮𝘦/𝘚𝘌𝘊𝘓𝘒>𝘚𝘌𝘊𝘓𝘒</𝘢>
-✯ 𝘊𝘙𝘌𝘈𝘛𝘖𝘙: <𝘢 𝘩𝘳𝘦𝘧=𝘩𝘵𝘵𝘱𝘴://𝘵.𝘮𝘦/𝘈𝘣𝘰𝘶𝘵_𝘚𝘢𝘯𝘥𝘢𝘳𝘶𝘸𝘢𝘯>𝘚𝘈𝘕𝘋𝘈𝘙𝘜𝘞𝘈𝘕</𝘢>"""  
+✯ MY NAME: {}
+✯ LIBRARY: PYROGRAM
+✯ LANGUAGE: PYTHON 3
+✯ BUILD STATUS: v1.0.1 [BETA]
+✯ SUPPORT: <a href=https://t.me/SECLK>SECLK</a>
+✯ CREATOR: <a href=https://t.me/About_Sandaruwan>SANDARUWAN</a>"""  
+
       
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
