@@ -1,15 +1,19 @@
 class script(object):
     START_TXT = """ʜᴇʏ {},
-ɪᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴍᴏᴠɪᴇ ɪɴ ᴀɴʏ ɢʀᴏᴜᴘ. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """ HEh {}
 HERE IS THE HELP FOR COMMANDS."""
-    ABOUT_TXT = """○ ᴍʏ ɴᴀᴍᴇ : ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇꜱ
-    ○ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ
-    ○ ғʀᴀᴍᴇᴡᴏʀᴋ: ᴘʏʀᴏɢʀᴀᴍ
-    ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :🔐
-    ○ ᴠᴇʀsɪᴏɴ : 3.0.0
-    ○ ᴄʀᴇᴀᴛᴏʀ : ᴇᴠᴀ ᴍᴀʀɪᴀ ᴄʀᴇᴀᴛᴇʀꜱ"""  
-    
+    ABOUT_TXT = """✯ 𝕄𝕐 ℕ𝔸𝕄𝔼:: {}
+    ✯ 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼: ℙ𝕐𝕋ℍ𝕆ℕ 𝟛
+    ✯ 𝕃𝕀𝔹ℝ𝔸ℝ𝕐: ℙ𝕐ℝ𝕆𝔾ℝ𝔸𝕄
+    ✯ 𝔹𝕌𝕀𝕃𝔻 𝕊𝕋𝔸𝕋𝕌𝕊: 𝕍𝟙.𝟘.𝟙 [𝔹𝔼𝕋𝔸]
+    ✯ 𝕊𝕌ℙℙ𝕆ℝ𝕋: <a href=https://t.me/SECLK>𝕊𝔼ℂ𝕃𝕂</a>
+    ✯ ℂℝ𝔼𝔸𝕋𝕆ℝ: <a href=https://t.me/About_Sandaruwan>𝕊𝕒𝕟𝕕𝕒𝕣𝕦𝕨𝕒𝕟</a>"""  
+      SOURCE_TXT = """<b>NOTE:</b>
+- All Credit to Eva Maria 
+- Source - 🔐 
+<b>DEVS:</b>
+- <a href=https://t.me/SECLK>𝕊𝔼ℂ𝕃𝕂</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
