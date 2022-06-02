@@ -36,10 +36,10 @@ HERE IS THE HELP FOR COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/mewtwo_pabot)</code>
+<code>[Button Text](buttonurl:https://t.me/SECLK)</code>
 
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message, You should use @MEWTEO_PAbot to get tv series )</code>"""
+<code>[Button Text](buttonalert:This is an alert message, You should use @NETFLIXLKBOT to get Movies )</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
